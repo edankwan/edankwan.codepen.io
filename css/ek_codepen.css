@@ -54,6 +54,7 @@ html, body {
 #info a,
 #info a:active,
 #info a:visited {
+    margin-right: 3px;
     color: #00fff6;
     text-decoration: underline;
 }
